@@ -13,3 +13,189 @@
 
 2026.02.02 22:31:25 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/AgentThread.java. Output:
 
+2026.02.02 22:34:15 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java. Using fallback presentation compiler.
+2026.02.02 22:34:17 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java. Using fallback presentation compiler.
+2026.02.02 22:34:17 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:34:17 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:37:22 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java
+2026.02.02 22:37:22 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:37:22 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/Board.java. Output:
+
+2026.02.02 22:42:12 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java
+2026.02.02 22:42:12 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:42:25 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:42:26 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:42:26 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java
+2026.02.02 22:42:26 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java. Using fallback presentation compiler.
+2026.02.02 22:42:26 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/AgentThread.java. Output:
+
+2026.02.02 22:42:34 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java. Using fallback presentation compiler.
+2026.02.02 22:42:34 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java
+2026.02.02 22:42:34 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:42:34 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/Board.java. Output:
+
+2026.02.02 22:42:44 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:42:44 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java
+2026.02.02 22:42:44 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java. Using fallback presentation compiler.
+2026.02.02 22:42:44 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/AgentThread.java. Output:
+
+2026.02.02 22:42:50 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java. Using fallback presentation compiler.
+2026.02.02 22:42:50 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java
+2026.02.02 22:42:50 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:42:50 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/Board.java. Output:
+
+2026.02.02 22:42:50 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:42:50 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\CellType.java
+2026.02.02 22:42:50 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\CellType.java. Using fallback presentation compiler.
+2026.02.02 22:42:50 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/CellType.java. Output:
+
+2026.02.02 22:42:51 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\CellType.java. Using fallback presentation compiler.
+2026.02.02 22:42:52 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java
+2026.02.02 22:42:51 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:42:52 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/MatrixGame.java. Output:
+
+2026.02.02 22:42:57 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:42:57 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:42:59 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:42:59 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:42:59 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/MatrixGame.java. Output:
+
+2026.02.02 22:42:59 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:42:59 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:42:59 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/MatrixGame.java. Output:
+
+2026.02.02 22:42:59 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:43:00 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:43:00 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:43:00 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:43:01 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:43:01 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:43:01 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:43:01 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:43:01 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/MatrixGame.java. Output:
+
+2026.02.02 22:43:03 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java
+2026.02.02 22:43:20 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:49:57 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\CellType.java
+2026.02.02 22:49:58 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/CellType.java. Output:
+
+2026.02.02 22:49:58 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Position.java
+2026.02.02 22:49:58 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/Position.java. Output:
+
+2026.02.02 22:50:20 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java
+2026.02.02 22:50:20 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/NeoThread.java. Output:
+
+2026.02.02 22:50:20 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java. Using fallback presentation compiler.
+2026.02.02 22:50:20 INFO  Created report: Optional[file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/NeoThread.java]
+2026.02.02 22:50:20 INFO  empty definition using pc, found symbol in pc: java/lang/Thread# (full report at: "C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\.metals\.reports\metals-full\2026-02-02\r_empty-definition_22-50-21-077.md")
+2026.02.02 22:50:21 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java. Using fallback presentation compiler.
+2026.02.02 22:50:21 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 22:50:21 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java
+2026.02.02 22:50:21 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/Board.java. Output:
+
+2026.02.02 22:50:21 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:50:22 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:50:22 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java
+2026.02.02 22:50:21 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/Board.java. Output:
+
+2026.02.02 22:50:22 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:50:22 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:50:22 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java
+2026.02.02 22:50:22 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/Board.java. Output:
+
+2026.02.02 22:50:22 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:50:22 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 22:52:57 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\CellType.java. Using fallback presentation compiler.
+2026.02.02 22:52:57 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Position.java. Using fallback presentation compiler.
+2026.02.02 22:53:54 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java
+2026.02.02 22:53:54 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java. Using fallback presentation compiler.
+2026.02.02 22:53:54 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/AgentThread.java. Output:
+
+2026.02.02 22:53:57 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java. Using fallback presentation compiler.
+2026.02.02 22:59:42 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java. Using fallback presentation compiler.
+2026.02.02 22:59:44 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java. Using fallback presentation compiler.
+2026.02.02 22:59:44 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java
+2026.02.02 22:59:44 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java. Using fallback presentation compiler.
+2026.02.02 22:59:44 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/NeoThread.java. Output:
+
+2026.02.02 22:59:44 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java. Using fallback presentation compiler.
+2026.02.02 22:59:45 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java. Using fallback presentation compiler.
+2026.02.02 22:59:45 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java. Using fallback presentation compiler.
+2026.02.02 22:59:47 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java. Using fallback presentation compiler.
+2026.02.02 22:59:51 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java. Using fallback presentation compiler.
+2026.02.02 22:59:55 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java. Using fallback presentation compiler.
+2026.02.02 22:59:55 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java
+2026.02.02 22:59:55 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java. Using fallback presentation compiler.
+2026.02.02 22:59:55 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/AgentThread.java. Output:
+
+2026.02.02 23:00:00 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java
+2026.02.02 23:00:00 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 23:00:00 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 23:00:01 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 23:00:02 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java. Using fallback presentation compiler.
+2026.02.02 23:00:02 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Position.java
+2026.02.02 23:00:02 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Position.java. Using fallback presentation compiler.
+2026.02.02 23:00:02 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/Position.java. Output:
+
+2026.02.02 23:00:04 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Position.java. Using fallback presentation compiler.
+2026.02.02 23:00:05 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java
+2026.02.02 23:00:04 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java. Using fallback presentation compiler.
+2026.02.02 23:00:05 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/NeoThread.java. Output:
+
+2026.02.02 23:00:04 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java. Using fallback presentation compiler.
+2026.02.02 23:00:07 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java
+2026.02.02 23:00:07 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 23:00:07 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 23:00:10 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 23:00:11 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java. Using fallback presentation compiler.
+2026.02.02 23:00:11 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\CellType.java
+2026.02.02 23:00:11 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\CellType.java. Using fallback presentation compiler.
+2026.02.02 23:00:11 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/CellType.java. Output:
+
+2026.02.02 23:00:13 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\CellType.java. Using fallback presentation compiler.
+2026.02.02 23:00:13 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java
+2026.02.02 23:00:13 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 23:00:13 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/Board.java. Output:
+
+2026.02.02 23:00:13 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 23:00:15 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 23:00:15 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Position.java
+2026.02.02 23:00:15 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Position.java. Using fallback presentation compiler.
+2026.02.02 23:00:15 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/Position.java. Output:
+
+2026.02.02 23:00:20 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Position.java. Using fallback presentation compiler.
+2026.02.02 23:00:20 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java
+2026.02.02 23:00:20 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 23:00:20 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/Board.java. Output:
+
+2026.02.02 23:00:41 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 23:01:20 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 23:01:51 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 23:01:51 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 23:01:53 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 23:01:53 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 23:03:00 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java. Using fallback presentation compiler.
+2026.02.02 23:05:25 INFO  Shutting down server
+2026.02.02 23:05:25 INFO  Memory monitor stopped
+2026.02.02 23:05:25 INFO  shutting down Metals
+2026.02.02 23:05:25 INFO  Exiting server
+2026.02.02 23:06:12 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game' for client Visual Studio Code 1.108.2.
+2026.02.02 23:06:12 INFO  Memory monitor started
+2026.02.02 23:06:12 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.02 23:06:13 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 23:06:13 WARN  no build tool detected in workspace 'C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.02 23:06:14 WARN  Build server is not auto-connectable.
+2026.02.02 23:06:14 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java
+2026.02.02 23:06:14 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 23:06:14 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 23:06:14 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+2026.02.02 23:06:14 INFO  no build target found for C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java. Using fallback presentation compiler.
+feb 02, 2026 11:06:14 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+feb 02, 2026 11:06:14 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+feb 02, 2026 11:06:14 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.02.02 23:06:15 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/MatrixGame.java. Output:
+
+2026.02.02 23:06:15 INFO  time: code lens generation in 1.37s
