@@ -1,0 +1,15 @@
+2026.02.02 22:31:23 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.02 22:31:24 WARN  no build tool detected in workspace 'C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.02 22:31:24 WARN  Build server is not auto-connectable.
+2026.02.02 22:31:24 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\AgentThread.java
+2026.02.02 22:31:24 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\Board.java
+2026.02.02 22:31:24 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\NeoThread.java
+2026.02.02 22:31:24 WARN  no build target for: C:\Users\aleja\OneDrive\Desktop\7 SEMESTRE\ARSW\First-term\Matrix-Concurrency-Game\MatrixGameJava\MatrixGame.java
+2026.02.02 22:31:24 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/MatrixGame.java. Output:
+
+2026.02.02 22:31:25 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/Board.java. Output:
+
+2026.02.02 22:31:25 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/NeoThread.java. Output:
+
+2026.02.02 22:31:25 WARN  Running javac-semanticdb failed for file:///C:/Users/aleja/OneDrive/Desktop/7%20SEMESTRE/ARSW/First-term/Matrix-Concurrency-Game/MatrixGameJava/AgentThread.java. Output:
+

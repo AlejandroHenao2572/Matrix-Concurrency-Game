@@ -13,8 +13,8 @@ public class MatrixGame {
         System.out.println(". = Espacio vacio\n");
 
         // Configuracion del juego
-        int numAgents = 2;
-        int numPhones = 3;
+        int numAgents = 3;
+        int numPhones = 1;
         int numWalls = 5;
         int boardSize = 10;
         int neoPos []= {0, 0}; // Posicion inicial de Neo
